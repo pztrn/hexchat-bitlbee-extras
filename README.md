@@ -37,3 +37,10 @@ Where ``NETNAME`` is a name of Bitlbee network. If you have it multiworded
 ```
 /be set network "ZNC - Bitlbee"
 ```
+
+# What it do
+
+This is a list of functions it executes:
+
+* Automatically replaces bad XMPP MUC (and possibly other) nicknames with
+valid ones (taken from userhost).
