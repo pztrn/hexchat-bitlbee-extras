@@ -38,7 +38,7 @@ Where ``NETNAME`` is a name of Bitlbee network. If you have it multiworded
 /be set network "ZNC - Bitlbee"
 ```
 
-# What it do
+# What it does
 
 This is a list of functions it executes:
 
